@@ -1,2 +1,2 @@
-# TP-g-nie-logiciel
+# TP-génie-logiciel
 Refactoring GildedRose
